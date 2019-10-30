@@ -1,0 +1,18 @@
+body {background-color: whitesmoke;}
+
+h1 {font-family: 'Laila', serif;
+    text-align: center;}
+
+td {border: 6px white solid;
+    width: 70px;
+    height: 500px;
+    padding: 20px 20px 20px 20px;
+    margin: 100px;}
+
+#one {background-color: #2D7DD2;}
+#two {background-color: #5ADBFF;}
+#three {background-color: #3F88C5;}
+#four {background-color: #97CC04;}
+#five {background-color: #EEB902;
+    }
+table {margin: auto;}
